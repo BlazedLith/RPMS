@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controller.PatientDashboardController" prefWidth="400" prefHeight="350" stylesheets="@Login.css">
+    <center>
+        <VBox alignment="CENTER" spacing="20.0" style="-fx-padding: 40;">
+            <HBox alignment="TOP_RIGHT" spacing="10" style="-fx-padding: 10;">
+                <Button fx:id="logoutBtn" text="Logout" onAction="#handleLogout" />
+            </HBox>
+            <Label text="Welcome, Patient!" style="-fx-font-size: 18px; -fx-font-weight: bold;" />
+
+            <Button text="Upload Vitals" onAction="#handleUploadVitals" maxWidth="200" />
+            <Button text="View Vitals" onAction="#handleViewVitals" maxWidth="200" />
+            <Button text="View Appointments" onAction="#handleViewAppointments" maxWidth="200" />
+            <Button text="View Feedback" onAction="#handleViewFeedback" maxWidth="200" />
+            <Button text="Schedule Appointment" onAction="#handleScheduleAppointment" maxWidth="200"/>
+            <Button text="View Health Trends" onAction="#handleViewHealthTrends" maxWidth="200"/>
+            <Button text="Request Video/Chat" onAction="#handleRequestCommunication" maxWidth="250"/>
+            <Button text="Generate Report" onAction="#handleGenerateReport" />
+        </VBox>
+    </center>
+</BorderPane>

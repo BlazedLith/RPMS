@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controller.FeedbackTableViewController" prefWidth="700" prefHeight="400" stylesheets="@Login.css">
+    <top>
+        <Label text="Doctor Feedback" style="-fx-font-size: 18px; -fx-font-weight: bold; -fx-padding: 20 0 10 20;" />
+    </top>
+    <center>
+        <TableView fx:id="feedbackTable" prefWidth="700">
+            <columns>
+                <TableColumn fx:id="doctorIdCol" text="Doctor ID" prefWidth="120" />
+                <TableColumn fx:id="dateCol" text="Date" prefWidth="120" />
+                <TableColumn fx:id="commentsCol" text="Comments" prefWidth="230" />
+                <TableColumn fx:id="medicationsCol" text="Medications" prefWidth="230" />
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

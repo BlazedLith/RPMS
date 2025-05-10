@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controller.DoctorAppointmentsController"
+            prefWidth="700" prefHeight="400" stylesheets="@Login.css">
+    <top>
+        <Label text="Manage Appointments" style="-fx-font-size: 18px; -fx-font-weight: bold; -fx-padding: 20 0 10 20;" />
+    </top>
+    <center>
+        <TableView fx:id="appointmentsTable" prefWidth="680">
+            <columns>
+                <TableColumn fx:id="idCol" text="Appointment ID" prefWidth="100"/>
+                <TableColumn fx:id="patientCol" text="Patient Name" prefWidth="150"/>
+                <TableColumn fx:id="dateTimeCol" text="Date &amp; Time" prefWidth="200"/>
+                <TableColumn fx:id="statusCol" text="Status" prefWidth="100"/>
+                <TableColumn fx:id="actionCol" text="Action" prefWidth="350"/>
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

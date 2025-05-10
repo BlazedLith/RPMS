@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controller.VitalsTrendViewController"
+            prefWidth="900" prefHeight="600" stylesheets="@Login.css">
+
+    <top>
+        <Label text="Vitals Trend Over Time"
+               style="-fx-font-size: 20px; -fx-font-weight: bold; -fx-padding: 15;" />
+    </top>
+
+    <center>
+        <LineChart fx:id="lineChart" title="Vitals Trend"
+                   createSymbols="false">
+            <xAxis>
+                <CategoryAxis fx:id="xAxis" label="Timestamp"/>
+            </xAxis>
+            <yAxis>
+                <NumberAxis fx:id="yAxis" label="Value"/>
+            </yAxis>
+        </LineChart>
+    </center>
+</BorderPane>

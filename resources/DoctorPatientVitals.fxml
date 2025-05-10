@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="controller.DoctorPatientVitalsController"
+            prefWidth="700" prefHeight="400" stylesheets="@Login.css">
+    <top>
+        <Label text="Patient Vitals" style="-fx-font-size: 18px; -fx-font-weight: bold; -fx-padding: 20 0 10 20;"/>
+    </top>
+    <center>
+        <TableView fx:id="vitalsTable" prefWidth="680">
+            <columns>
+                <TableColumn fx:id="heartRateCol" text="Heart Rate" prefWidth="100"/>
+                <TableColumn fx:id="bpCol" text="Blood Pressure" prefWidth="120"/>
+                <TableColumn fx:id="tempCol" text="Temperature" prefWidth="120"/>
+                <TableColumn fx:id="oxygenCol" text="Oxygen Level" prefWidth="120"/>
+                <TableColumn fx:id="timeCol" text="Timestamp" prefWidth="200"/>
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

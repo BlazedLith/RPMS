@@ -1,0 +1,133 @@
+[2025-04-18 12:01] INFO: User pat001 logged in
+[2025-04-18 12:03] VITAL UPLOAD by pat001
+[2025-04-18 12:05] FEEDBACK by doc001 to pat001
+[2025-04-18 12:10] APPOINTMENT requested by pat001[2025-04-20 11:50:54] Login: admin001 (Administrator)
+[2025-04-20 11:55:27] Login: admin001 (Administrator)
+[2025-04-20 12:05:59] Login: pat001 (Patient)
+[2025-04-20 14:34:03] Login: doc001 (Doctor)
+[2025-04-20 21:38:57] Login: doc001 (Doctor)
+[2025-04-20 21:40:10] Login: pat001 (Patient)
+[2025-04-20 21:43:10] Login: pat001 (Patient)
+[2025-04-20 21:48:56] Login: pat001 (Patient)
+[2025-04-20 21:53:21] Login: pat001 (Patient)
+[2025-04-20 21:55:20] Login: pat001 (Patient)
+[2025-04-20 21:56:09] Login: doc001 (Doctor)
+[2025-04-20 22:05:22] Login: doc001 (Doctor)
+[2025-04-20 22:10:23] Login: doc001 (Doctor)
+[2025-04-20 22:13:26] Login: pat001 (Patient)
+[2025-04-20 22:14:11] Login: admin001 (Administrator)
+[2025-04-20 22:25:20] Login: pat001 (Patient)
+[2025-04-20 22:30:17] Login: pat001 (Patient)
+[2025-04-21 03:07:09] Login: pat001 (Patient)
+[2025-04-21 03:07:11] Vitals uploaded by patient: pat001
+[2025-04-21 03:10:53] Vitals uploaded by patient: pat001
+[2025-04-21 03:19:57] Login: pat001 (Patient)
+[2025-04-21 03:20:00] Vitals uploaded by patient: pat001
+[2025-04-21 03:33:11] Login: pat001 (Patient)
+[2025-04-21 03:33:12] Vitals uploaded by patient: pat001
+[2025-04-21 03:35:56] Login: pat001 (Patient)
+[2025-04-21 03:35:57] Vitals uploaded by patient: pat001
+[2025-04-21 03:48:25] Login: pat001 (Patient)
+[2025-04-21 03:48:27] Vitals uploaded by patient: pat001
+[2025-04-21 03:58:33] Login: pat001 (Patient)
+[2025-04-21 03:58:35] Vitals uploaded by patient: pat001
+[2025-04-21 04:07:57] Login: pat001 (Patient)
+[2025-04-21 04:07:58] Vitals uploaded by patient: pat001
+[2025-04-21 04:13:18] Login: pat001 (Patient)
+[2025-04-21 04:13:19] Vitals uploaded by patient: pat001
+[2025-04-21 04:24:40] Login: pat001 (Patient)
+[2025-04-21 04:24:41] Vitals uploaded by patient: pat001
+[2025-04-21 04:28:37] Login: pat001 (Patient)
+[2025-04-21 04:28:39] Vitals uploaded by patient: pat001
+[2025-04-21 04:48:13] Login: pat001 (Patient)
+[2025-04-21 04:48:15] Vitals uploaded by patient: pat001
+[2025-04-21 04:58:58] Login: pat001 (Patient)
+[2025-04-21 04:58:59] Vitals uploaded by patient: pat001
+[2025-04-21 05:04:27] Login: pat001 (Patient)
+[2025-04-21 05:04:30] Vitals uploaded by patient: pat001
+[2025-04-21 05:08:15] Login: pat001 (Patient)
+[2025-04-21 05:08:16] Vitals uploaded by patient: pat001
+[2025-04-21 20:05:40] Login: pat001 (Patient)
+[2025-04-21 20:05:45] Vitals uploaded by patient: pat001
+[2025-04-21 20:06:10] Appointment requested by: pat001
+[2025-04-21 20:07:44] Login: doc001 (Doctor)
+[2025-04-21 20:46:46] Login: pat001 (Patient)
+[2025-04-21 20:46:49] Vitals uploaded by patient: pat001
+[2025-04-21 20:47:25] Appointment requested by: pat001
+[2025-04-21 20:48:20] Login: doc001 (Doctor)
+[2025-04-21 21:49:36] Login: pat001 (Patient)
+[2025-04-21 21:50:12] Login: doc001 (Doctor)
+[2025-04-21 21:51:27] Login: pat001 (Patient)
+[2025-04-21 21:54:31] Login: pat001 (Patient)
+[2025-04-21 21:55:15] Login: doc001 (Doctor)
+[2025-04-21 21:56:04] Login: doc001 (Doctor)
+[2025-04-21 21:56:32] Login: doc001 (Doctor)
+[2025-04-21 21:56:58] Login: doc001 (Doctor)
+[2025-04-21 22:02:57] Login: admin001 (Administrator)
+[2025-04-21 22:05:42] Login: admin001 (Administrator)
+[2025-04-21 22:15:37] Login: admin001 (Administrator)
+[2025-04-21 22:17:39] Login: admin001 (Administrator)
+[2025-04-21 22:20:20] Login: admin001 (Administrator)
+[2025-04-21 22:23:44] Login: admin001 (Administrator)
+[2025-04-21 22:24:58] Login: admin001 (Administrator)
+[2025-04-21 22:29:03] Login: admin001 (Administrator)
+[2025-04-21 22:30:25] Login: admin001 (Administrator)
+[2025-04-21 22:32:45] Login: admin001 (Administrator)
+[2025-04-21 22:34:57] Login: admin001 (Administrator)
+[2025-04-21 22:37:10] Login: admin001 (Administrator)
+[2025-04-21 22:38:20] Login: admin001 (Administrator)
+[2025-04-21 22:39:59] Login: admin001 (Administrator)
+[2025-04-21 22:41:11] Login: admin001 (Administrator)
+[2025-04-21 22:41:40] Login: admin001 (Administrator)
+[2025-04-22 16:32:42] Login: pat001 (Patient)
+[2025-04-22 16:32:45] Vitals uploaded by patient: pat001
+[2025-04-22 16:33:00] Appointment requested by: pat001
+[2025-04-25 20:55:19] Login: doc001 (Doctor)
+[2025-04-28 13:21:07] Login: doc001 (Doctor)
+[2025-04-29 18:17:21] Login: pat001 (Patient)
+[2025-04-29 18:17:25] Vitals uploaded by patient: pat001
+[2025-04-29 18:17:52] Appointment requested by: pat001
+[2025-04-29 18:19:20] Login: doc001 (Doctor)
+[2025-04-29 18:20:49] Login: admin001 (Administrator)
+[2025-05-06 00:58:27] Login: doc001 (Doctor)
+[2025-05-06 01:08:50] Login: doc001 (Doctor)
+[2025-05-06 01:22:54] Login: doc001 (Doctor)
+[2025-05-06 01:24:00] Login: doc001 (Doctor)
+[2025-05-06 01:28:16] Login: pat001 (Patient)
+[2025-05-06 01:28:19] Vitals uploaded by patient: pat001
+[2025-05-06 01:47:56] Login: pat001 (Patient)
+[2025-05-06 01:48:04] Vitals uploaded by patient: pat001
+[2025-05-06 01:52:57] Login: pat001 (Patient)
+[2025-05-06 01:53:00] Vitals uploaded by patient: pat001
+[2025-05-06 01:56:39] Login: pat001 (Patient)
+[2025-05-06 01:58:32] Vitals uploaded by patient: pat001
+[2025-05-06 01:59:36] Appointment requested by: pat001
+[2025-05-06 02:04:44] Login: pat001 (Patient)
+[2025-05-06 02:04:47] Appointment requested by: pat001
+[2025-05-06 02:06:43] Login: doc001 (Doctor)
+[2025-05-06 02:08:19] Login: pat001 (Patient)
+[2025-05-06 02:08:23] Appointment requested by: pat001
+[2025-05-06 02:09:34] Login: doc001 (Doctor)
+[2025-05-09 00:36:58] Login: pat001 (Patient)
+[2025-05-09 00:37:03] Vitals uploaded by patient: pat001
+[2025-05-09 00:38:43] Appointment requested by: pat001
+[2025-05-09 00:43:47] Login: doc001 (Doctor)
+[2025-05-09 00:49:06] Login: admin001 (Administrator)
+[2025-05-09 00:53:34] Login: admin001 (Administrator)
+[2025-05-09 00:54:11] Login: admin001 (Administrator)
+[2025-05-09 01:06:07] Login: pat001 (Patient)
+[2025-05-09 01:06:11] Appointment requested by: pat001
+[2025-05-09 01:08:22] Login: doc001 (Doctor)
+[2025-05-09 16:52:33] Login: pat001 (Patient)
+[2025-05-09 16:53:23] Login: doc001 (Doctor)
+[2025-05-09 19:33:32] Login: pat001 (Patient)
+[2025-05-09 19:33:37] Vitals upload opened for patient: pat001
+[2025-05-09 19:34:23] Login: pat001 (Patient)
+[2025-05-09 19:34:38] Vitals upload opened for patient: pat001
+[2025-05-09 19:45:24] Login: pat001 (Patient)
+[2025-05-09 19:45:27] Vitals upload opened for patient: pat001
+[2025-05-09 19:45:57] Login: doc001 (Doctor)
+[2025-05-09 19:48:22] Login: pat001 (Patient)
+[2025-05-09 19:48:45] Vitals upload opened for patient: pat001
+[2025-05-09 19:50:23] Login: pat001 (Patient)
+[2025-05-09 19:50:25] Vitals upload opened for patient: pat001

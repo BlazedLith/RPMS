@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controller.PatientRequestCommunicationController" prefWidth="500" prefHeight="400" stylesheets="@Login.css">
+    <top>
+        <Label text="Request Communication with Doctor"
+               style="-fx-font-size: 18px; -fx-font-weight: bold; -fx-padding: 15;" />
+    </top>
+    <center>
+        <VBox spacing="10" alignment="CENTER" style="-fx-padding: 20;">
+            <Label text="Select Request Type:" />
+            <HBox spacing="15" alignment="CENTER">
+                <Button text="Request Video Call" onAction="#handleVideoRequest"/>
+                <Button text="Request Chat" onAction="#handleChatRequest"/>
+            </HBox>
+
+            <Separator/>
+
+            <Label text="Your Previous Requests:" style="-fx-font-weight: bold;" />
+            <TextArea fx:id="requestTextArea" editable="false" wrapText="true" prefHeight="200"/>
+        </VBox>
+    </center>
+</BorderPane>

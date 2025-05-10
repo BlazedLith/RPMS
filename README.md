@@ -1,4 +1,4 @@
-###Running Guidelines for IntelliJ IDEA
+***Running Guidelines for IntelliJ IDEA***
 
 Open IntelliJ IDEA.
 

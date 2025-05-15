@@ -23,6 +23,8 @@ Type --module-path "path to javafx lib folder" --add-modules javafx.controls,jav
 
 Next mark the Resources folder as Resources Root by right clicking it in IntelliJ.
 
-Finally set up MySQL Workbench and run the SQL script file given.
+Then set up MySQL Workbench and run the SQL script file given.
+
+Now download sql connector file and add the library by adding the jar file in it just like we did with other libraries. 
 
 Finally run and that should run the project.

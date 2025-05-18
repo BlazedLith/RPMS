@@ -1,3 +1,6 @@
+Note: You need to have JDK 24 and IntelliJ downloaded on your PC
+
+
 ***Running Guidelines for IntelliJ IDEA***
 
 Open IntelliJ IDEA.

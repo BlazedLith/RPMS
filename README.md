@@ -28,3 +28,6 @@ Then set up MySQL Workbench and run the SQL script file given.
 Now download sql connector file and add the library by adding the jar file in it just like we did with other libraries. 
 
 Finally run and that should run the project.
+
+
+***Demo Video:***https://drive.google.com/file/d/1PIrhsjmnRqQujNo0ANpicWOA26Y_kVB-/view?usp=sharing

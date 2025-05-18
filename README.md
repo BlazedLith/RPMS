@@ -30,4 +30,4 @@ Now download sql connector file and add the library by adding the jar file in it
 Finally run and that should run the project.
 
 
-***Demo Video:***https://drive.google.com/file/d/1PIrhsjmnRqQujNo0ANpicWOA26Y_kVB-/view?usp=sharing
+***Demo Video:*** https://drive.google.com/file/d/1PIrhsjmnRqQujNo0ANpicWOA26Y_kVB-/view?usp=sharing

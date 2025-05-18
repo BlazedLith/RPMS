@@ -1,9 +1,9 @@
-Note: You need to have JDK 24 and IntelliJ downloaded on your PC
+Note: You need to have JDK 24, Git and IntelliJ downloaded on your PC
 
 
 ***Running Guidelines for IntelliJ IDEA***
 
-Open IntelliJ IDEA.
+Open IntelliJ IDEA (As Administrator).
 
 From the Welcome Screen, click on “Get from Version Control” (or File > New > Project from Version Control if already inside a project).
 
